@@ -2,7 +2,7 @@
 
 <div>
     Aqui você encontrará alguns projetos em que gastei algum tempo; <br>
-    Os projetos pinados são projetos independentes que desenvolvi por conta propria! <br><br>
+    Dê uma olhada nos projetos pinados! <br><br>
 </div>
 
 <div algin="center">
