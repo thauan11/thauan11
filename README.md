@@ -1,8 +1,7 @@
-### Olá 👋
+### Hello 👋
 
 <div>
-    Aqui você encontrará alguns projetos em que gastei algum tempo; <br>
-    Dê uma olhada nos projetos pinados! <br><br>
+    Here you can find some projects I spent some time
 </div>
 
 <!-- 
