@@ -35,11 +35,12 @@
     },
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
+    "window.titleBarStyle": "custom",
+    "workbench.statusBar.visible": false,
     "window.menuBarVisibility": "toggle",
-    "window.customTitleBarVisibility": "never",
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
-        "package.json": ".eslint*, prettier*, biome*, tsconfig*, vite*, pnpm-lock*, bun.lockb, package-lock.json, drizzle*, tailwind*, postcss*",
+        "package.json": ".eslint*, prettier*, biome*, tsconfig*, vite*, pnpm-lock*, bun.lockb, package-lock.json, drizzle*, tailwind*, postcss*, readme*, .git*",
         ".env.local": ".env*",
         ".env": ".env*"
     },
@@ -48,4 +49,8 @@
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
     "editor.wordWrap": "on",
+    "codeium.enableCodeLens": false,
+    "[css]": {
+        "editor.defaultFormatter": "biomejs.biome"
+    },
 }
