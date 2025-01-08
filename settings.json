@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": 1,
+    // "window.zoomLevel": 1,
     "workbench.colorTheme": "Min Dark",
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
